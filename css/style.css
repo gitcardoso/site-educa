@@ -45,3 +45,11 @@ nav li{
     width: auto;
     height: auto;
 }
+
+button {
+    padding: 10px;
+    cursor: pointer;
+    color: black;
+    border-radius: 5px;
+    background-color: rgb(182, 140, 4);
+}
