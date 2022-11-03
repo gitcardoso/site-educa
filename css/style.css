@@ -8,6 +8,11 @@ h1{
     color: rgb(182, 140, 4);
 }
 
+h2{
+    text-align: center;
+    color: rgb(182, 140, 4);
+}
+
 p{
     text-align: justify;
     font-size: 20px;
